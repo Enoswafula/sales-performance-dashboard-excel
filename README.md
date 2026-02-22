@@ -92,5 +92,9 @@ High discounts of 60%–80% result in **–48.1% profit margin**.
 ---
 
 ## 🚀 How to Use  
-1.[Download Excel Dashboard (Compressed)](Dashboard/Superstore%20Sales%20Performance%20Dashboard%20v2.zip)  
-2. Use Year & Quarter slicers to explore insights  
+## 🚀 How to Use the Dashboard
+
+1. [Download Excel Dashboard (Compressed)](Dashboard/Superstore%20Sales%20Performance%20Dashboard%20v2.zip)
+2. Extract the zip file.
+3. Open in Excel 2016 or later.
+4. Use Year & Quarter slicers to explore insights.

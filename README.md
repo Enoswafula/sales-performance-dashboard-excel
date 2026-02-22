@@ -56,8 +56,8 @@ Top 5 customers contribute 3.4% of total orders.
 
 ---
 
-### 5️⃣ Monthly Sales Trend  
-![Monthly Trend](Screenshots/trend.png)
+### 5️⃣ Seasonality Trend  
+![Seasonality Trend](Screenshots/Q4_trend.png)
 
 Q4 drives $874.7K(38%)  of total revenue, showing strong seasonality.
 
